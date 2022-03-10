@@ -16,16 +16,12 @@ import { useRouter } from "next/router";
 
 const Links = [
   {
-    name: "Home",
-    route: "/",
-  },
-  {
     name: "Technologies",
     route: "#technologies",
   },
   {
     name: "Experience",
-    route: "#timeline",
+    route: "#experience",
   },
   {
     name: "Contact",

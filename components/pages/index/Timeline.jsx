@@ -8,7 +8,7 @@ const Timeline = () => {
         as="h1"
         fontSize={{ base: "24px", md: "30px", lg: "36px" }}
         mb={3}
-        id="timeline"
+        id="experience"
       >
         Work Experiences
       </Heading>
@@ -18,7 +18,7 @@ const Timeline = () => {
       <List spacing={18} fontSize="18">
         <ListItem>
           <ListIcon as={MdCheckCircle} color="purple.600" />
-          Working as a Software Engineer at Bigbinary, Pune.
+          Working as a Software Engineer at BigBinary, Pune.
         </ListItem>
       </List>
       <Heading mt={10} mb={5} as="h2" size="md">
@@ -31,7 +31,7 @@ const Timeline = () => {
         </ListItem>
         <ListItem>
           <ListIcon as={MdCheckCircle} color="purple.600" />
-          6 Month internship at Tridz Technologies
+          4 Month internship at Tridz Technologies
         </ListItem>
       </List>
     </SlideFade>
