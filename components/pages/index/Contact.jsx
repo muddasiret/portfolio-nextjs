@@ -24,7 +24,7 @@ const Contact = () => {
         <LightMode>
           <ButtonGroup>
             <Button
-              colorScheme="green"
+              colorScheme="blue"
               bg="purple.600"
               href="mailto:muddasir009@email.com"
               borderRadius={5}
@@ -35,7 +35,7 @@ const Contact = () => {
               muddasir009@email.com
             </Button>
             <Button
-              colorScheme="green"
+              colorScheme="blue"
               bg="purple.600"
               href="tel:+918714455705"
               borderRadius={5}
