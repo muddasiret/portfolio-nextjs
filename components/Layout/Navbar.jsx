@@ -58,7 +58,7 @@ const Navbar = () => {
 
   return (
     <>
-      <Box py={5} borderTop={"4px"} borderTopColor="purple.600">
+      <Box py={5} borderTop={"2px"} borderTopColor="purple.600">
         <Container maxW="container.lg">
           <Flex h={16} alignItems={"center"} justifyContent={"space-between"}>
             <IconButton

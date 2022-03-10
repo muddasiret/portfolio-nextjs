@@ -50,6 +50,7 @@ const Footer = () => (
               href={social.url}
               aria-label={social.label}
               icon={social.icon}
+              key={social?.label}
             />
           ))}
         </ButtonGroup>
