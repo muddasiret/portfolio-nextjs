@@ -13,7 +13,16 @@ const Timeline = () => {
         Work Experiences
       </Heading>
       <Heading mt={10} mb={5} as="h2" size="md">
-        May 2021 - Present
+        April 2022 - Present
+      </Heading>
+      <List spacing={18} fontSize="18">
+        <ListItem>
+          <ListIcon as={MdCheckCircle} color="purple.600" />
+          Working as a Senior Frontend Engineer at ITILITE, Bangalore.
+        </ListItem>
+      </List>
+      <Heading mt={10} mb={5} as="h2" size="md">
+        May 2021 - Jan 2022
       </Heading>
       <List spacing={18} fontSize="18">
         <ListItem>
